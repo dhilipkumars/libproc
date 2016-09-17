@@ -51,18 +51,18 @@ Ping PID <0.153.0>
 `pingpong -NSec 10 -Pings 2` - Run for 10 secs using 2 ping clients
 
 ```
-D:\dwork\src\er_practise>pingpong.exe -NSec 10 -Pings 2
+D:\>pingpong.exe -NSec 10 -Pings 2
 2016/09/17 13:54:29 Pong Count 7695050
 
-D:\dwork\src\er_practise>pingpong.exe -NSec 10 -Pings 4
+D:\>pingpong.exe -NSec 10 -Pings 4
 2016/09/17 13:55:13 Pong Count 8009643
 
-D:\dwork\src\er_practise>pingpong.exe -NSec 10 -Pings 8
+D:\>pingpong.exe -NSec 10 -Pings 8
 2016/09/17 13:56:02 Pong Count 8104391
 
-D:\dwork\src\er_practise>pingpong.exe -NSec 10 -Pings 16
+D:\>pingpong.exe -NSec 10 -Pings 16
 2016/09/17 13:59:02 Pong Count 8215920
 
-D:\dwork\src\er_practise>pingpong.exe -NSec 10 -Pings 32
+D:\>pingpong.exe -NSec 10 -Pings 32
 2016/09/17 13:59:38 Pong Count 8542576
 ```
